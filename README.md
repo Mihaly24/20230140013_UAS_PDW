@@ -6,4 +6,4 @@
 ![Dashboard Mahasiswa](https://github.com/user-attachments/assets/54eb5635-f46f-4be0-b547-255ebbc3d60c)
 ![Halaman praktikum Mahasiswa](https://github.com/user-attachments/assets/0db419b2-63f4-44aa-844d-091d53d1b9a1)
 ![Halaman upload laporan Mahasiswa](https://github.com/user-attachments/assets/6b57630d-8c71-46e8-9eea-e0653b70651c)
-![Halaman milih [raktikum Mahasiswa](https://github.com/user-attachments/assets/ac7fd5a6-c3f8-4bea-bac0-367d10b88385)
+![Halaman milih praktikum Mahasiswa](https://github.com/user-attachments/assets/ac7fd5a6-c3f8-4bea-bac0-367d10b88385)
