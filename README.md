@@ -1,5 +1,5 @@
-![Halaman login](https://github.com/user-attachments/assets/417bd383-70b9-4fa3-b403-c074fffea159)
-![Screenshot (386)](https://github.com/user-attachments/assets/cc012169-caed-4d4b-924a-a3860e0d6240)
+![Screenshot (389)](https://github.com/user-attachments/assets/f4fa7a65-2501-4e76-9778-9f1e50053582)
+![Screenshot (390)](https://github.com/user-attachments/assets/0f4fd87c-4740-41bf-962b-19a7b3f838b5)
 ![Dashboar Asisten/Admin)](https://github.com/user-attachments/assets/8943d390-541b-4400-ae33-7f7eb8dedead)
 ![Halaman kelola prak asisten](https://github.com/user-attachments/assets/6dc03261-e9a3-4db0-a642-c75538873fe3)
 ![Screenshot (385)](https://github.com/user-attachments/assets/59f9140d-d23e-41ab-a6d5-2d4fb4c54233)
