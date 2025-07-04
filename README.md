@@ -1,6 +1,7 @@
 ![Halaman login](https://github.com/user-attachments/assets/417bd383-70b9-4fa3-b403-c074fffea159)
 ![Dashboard Asisten/Admin)](https://github.com/user-attachments/assets/8943d390-541b-4400-ae33-7f7eb8dedead)
 ![Halaman kelola prak asisten](https://github.com/user-attachments/assets/6dc03261-e9a3-4db0-a642-c75538873fe3)
+![Screenshot (385)](https://github.com/user-attachments/assets/59f9140d-d23e-41ab-a6d5-2d4fb4c54233)
 ![Screenshot (383)](https://github.com/user-attachments/assets/a1bc76fd-31f0-4b2b-a978-1f44271ed797)
 ![Halaman laporan asisten](https://github.com/user-attachments/assets/b32f3adf-1f43-4a43-a143-33ed44b7d163)
 ![Screenshot (384)](https://github.com/user-attachments/assets/4067d56f-b173-4d74-98b6-a10576b4f12f)
